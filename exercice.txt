@@ -1,0 +1,17 @@
+1. Créez un dépôt git en local dans un dossier
+2. Ajouter un peu de code
+3. Créez des commits
+4. Créez un repository sur GitHub
+5. Reliez votre dépôt local au remote
+6. Envoyez votre code sur GitHub
+(
+    7. Modifiez votre code
+    8. Créez des commits
+    9. Envoyez les nouveaux commits sur GitHub
+    10. Bis repetitam
+)
+
+11. Les autres membres récupèrent le code
+    12. Les autres membres codent, font des commits, envoient sur GitHub
+    13. La joie des conflits
+)
